@@ -27,7 +27,7 @@ jobs:
       - name: commit release.json
         uses: github-actions-x/commit@v2.6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.TOKEN }}
           commit-message: 'update release.json'
           files: dist/release.json
 

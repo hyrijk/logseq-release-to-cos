@@ -12,7 +12,8 @@ jobs:
         uses: denolib/setup-deno@v2.3.0
 
       - uses: actions/checkout@v2
-        token: ${{ secrets.TOKEN }}
+        with:
+          token: ${{ secrets.TOKEN }}
 
       - name: run script
         run: deno run --allow-net --allow-write --unstable --allow-read main.ts

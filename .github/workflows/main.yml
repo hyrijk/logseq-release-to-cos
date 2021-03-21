@@ -2,6 +2,8 @@ name: CI
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
 
 jobs:
   download:
@@ -21,8 +23,8 @@ jobs:
       - name: commit release.json
         uses: EndBug/add-and-commit@v7.1.0
         with:
-          add: 'dist/release.json'
-          message: 'update release.json'
+          add: "dist/release.json"
+          message: "update release.json"
 
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1

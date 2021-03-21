@@ -35,16 +35,21 @@ async function assetsNeedDownload() {
   const res = await fetch(url);
   const releases: Release[] = await res.json()
 
+  let ret = []
   if (existsSync(ReleaseJson)) {
     const lastRelease: Release[] = JSON.parse(Deno.readTextFileSync(ReleaseJson).toString())
     const lastReleaseAssets = lastRelease.flatMap(r => r.assets)
 
-    Deno.writeTextFileSync(ReleaseJson, JSON.stringify(releases, null, 2), { append: false, create: true})
-    return releases.flatMap(r => r.assets).filter(a => lastReleaseAssets.find(
+    ret = releases.flatMap(r => r.assets).filter(a => lastReleaseAssets.find(
       la => la.name + la.updated_at === a.name + a.updated_at) === undefined
     )
+  } else {
+    ret = releases.flatMap(r => r.assets)
   }
 
-  Deno.writeTextFileSync(ReleaseJson, JSON.stringify(releases, null, 2), { append: false, create: true})
-  return releases.flatMap(r => r.assets)
+  if (ret.length > 0) {
+    Deno.writeTextFileSync(ReleaseJson, JSON.stringify(releases, null, 2), { append: false, create: true})
+  }
+
+  return ret
 }

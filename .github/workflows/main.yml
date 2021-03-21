@@ -19,9 +19,10 @@ jobs:
         run: deno run --allow-net --allow-write --unstable --allow-read main.ts
 
       - name: commit release.json
-        run: |
-          git add dist/release.json
-          git commit -m 'update release.json'
+        uses: EndBug/add-and-commit@v7.1.0
+        with:
+          add: 'dist/release.json'
+          message: 'update release.json'
 
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1

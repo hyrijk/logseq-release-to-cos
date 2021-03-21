@@ -12,21 +12,20 @@ jobs:
         uses: denolib/setup-deno@v2.3.0
 
       - uses: actions/checkout@v2
+        token: ${{ secrets.TOKEN }}
 
       - name: run script
         run: deno run --allow-net --allow-write --unstable --allow-read main.ts
 
       - name: commit release.json
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.TOKEN }}
-          commit-message: "update release.json"
-          files: dist/release.json
+        run: |
+          git add dist/release.json
+          git commit -m 'update release.json'
 
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: upload -r ./dist logseq/
+          args: upload -r dist bin
           secret_id: ${{ secrets.COS_SECRET_ID }}
           secret_key: ${{ secrets.COS_SECRET_KEY }}
           bucket: ${{ secrets.COS_BUCKET }}

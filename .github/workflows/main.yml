@@ -29,7 +29,7 @@ jobs:
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1
         with:
-          args: upload -r dist bin
+          args: upload -r dist/ /
           secret_id: ${{ secrets.COS_SECRET_ID }}
           secret_key: ${{ secrets.COS_SECRET_KEY }}
           bucket: ${{ secrets.COS_BUCKET }}

@@ -41,6 +41,7 @@ export interface Uploader {
 }
 
 export interface Asset {
+  tag_name: string;
   url: string;
   id: number;
   node_id: string;

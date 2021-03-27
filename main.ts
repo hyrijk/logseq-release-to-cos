@@ -1,6 +1,6 @@
 import { pooledMap } from 'https://deno.land/std/async/pool.ts'
 import { existsSync } from "https://deno.land/std/fs/mod.ts";
-import { Release } from './release.ts'
+import { Asset, Release } from './release.ts'
 import { RenderOptions, update } from './progressbar.ts';
 
 const ReleaseJson = 'dist/release.json'
@@ -13,10 +13,13 @@ const downloadPromises = assets.map(a => {
     const bar:RenderOptions = { 
       text: a.name,
       completed: 0,
-      total: +res.headers.get('Content-Length')!
+      total: a.size
     }
 
-    const file = await Deno.open('dist/' + a.name, {create: true, write: true, append: false})
+    
+    const dir = `dist/release/${a.tag_name}`
+    await mkdirIfNotExist(dir)
+    const file = await Deno.open(`${dir}/${a.name}`, {create: true, write: true, append: false})
     for await (const chunk of res.body!) {
       await Deno.writeAll(file, chunk) 
       bar.completed += chunk.length
@@ -28,23 +31,29 @@ const downloadPromises = assets.map(a => {
   }
 })
 
-pooledMap(3, downloadPromises, promise => promise())
+pooledMap(3, downloadPromises, promise => {
+  return promise().catch(e => {
+    console.error(e)
+    return Promise.reject(e)
+  })
+} )
 
 async function assetsNeedDownload() {
   const url = 'https://api.github.com/repos/logseq/logseq/releases?per_page=100'
   const res = await fetch(url);
   const releases: Release[] = await res.json()
 
-  let ret = []
+  let ret: Asset[] = []
   if (existsSync(ReleaseJson)) {
     const lastRelease: Release[] = JSON.parse(Deno.readTextFileSync(ReleaseJson).toString())
     const lastReleaseAssets = lastRelease.flatMap(r => r.assets)
 
-    ret = releases.flatMap(r => r.assets).filter(a => lastReleaseAssets.find(
+    ret = releases.flatMap(r => r.assets.map(a => ({...a, tag_name: r.tag_name})))
+    .filter(a => lastReleaseAssets.find(
       la => la.name + la.updated_at === a.name + a.updated_at) === undefined
     )
   } else {
-    ret = releases.flatMap(r => r.assets)
+    ret = releases.flatMap(r => r.assets.map(a => ({...a, tag_name: r.tag_name})))
   }
 
   if (ret.length > 0) {
@@ -52,4 +61,10 @@ async function assetsNeedDownload() {
   }
 
   return ret
+}
+
+function mkdirIfNotExist(dir: string) {
+  return Deno.mkdir(dir, {recursive: true}).catch(() => {
+    console.log('file exist')
+  })
 }

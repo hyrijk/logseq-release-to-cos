@@ -1,0 +1,35 @@
+name: client
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - client
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.5
+
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
+
+      - name: npm install
+        run: npm install
+
+      - name: npm build
+        run: npm run build
+
+      - name: upload to cos
+        uses: Bluefissure/tencent-cos-action@v0.1.1
+        with:
+          args: upload -r public/ /
+          secret_id: ${{ secrets.COS_SECRET_ID }}
+          secret_key: ${{ secrets.COS_SECRET_KEY }}
+          bucket: ${{ secrets.COS_BUCKET }}
+          region: ap-guangzhou
+          accelerate: true

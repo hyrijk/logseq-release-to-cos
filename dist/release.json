@@ -30,7 +30,7 @@
     "target_commitish": "3ad3f154ea5e6e946b6a48d71303124df9826dad",
     "name": "Desktop APP 0.0.2 (Alpha Testing)",
     "draft": false,
-    "prerelease": true,
+    "prerelease": false,
     "created_at": "2021-05-09T14:25:11Z",
     "published_at": "2021-05-09T14:37:03Z",
     "assets": [
@@ -63,7 +63,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 97156663,
-        "download_count": 4,
+        "download_count": 56,
         "created_at": "2021-05-09T14:37:07Z",
         "updated_at": "2021-05-09T14:37:10Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.2/logseq-darwin-x64-0.0.2.dmg"
@@ -97,7 +97,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 99018700,
-        "download_count": 0,
+        "download_count": 27,
         "created_at": "2021-05-09T14:37:03Z",
         "updated_at": "2021-05-09T14:37:06Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.2/logseq-darwin-x64-0.0.2.zip"
@@ -131,7 +131,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 100026606,
-        "download_count": 1,
+        "download_count": 17,
         "created_at": "2021-05-09T14:37:14Z",
         "updated_at": "2021-05-09T14:37:17Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.2/logseq-linux-x64-0.0.2.AppImage"
@@ -165,7 +165,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 99192441,
-        "download_count": 0,
+        "download_count": 7,
         "created_at": "2021-05-09T14:37:10Z",
         "updated_at": "2021-05-09T14:37:13Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.2/logseq-linux-x64-0.0.2.zip"
@@ -199,7 +199,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 100472832,
-        "download_count": 1,
+        "download_count": 381,
         "created_at": "2021-05-09T14:37:18Z",
         "updated_at": "2021-05-09T14:37:21Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.2/logseq-win-x64-0.0.2.exe"
@@ -207,7 +207,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/logseq/logseq/tarball/0.0.2",
     "zipball_url": "https://api.github.com/repos/logseq/logseq/zipball/0.0.2",
-    "body": "Fixed almost all the bugs reported on version `0.0.1`"
+    "body": "- Fixed almost all the bugs reported on version `0.0.1`\r\n- Add the markdown converter support\r\n  Click the right three dots menu, go to \"Export\" and select `Convert Markdown headings to unordered lists (# -> -)`\r\n![image](https://user-images.githubusercontent.com/479169/117576253-cc025080-b117-11eb-8cc1-9cf0051e0fa6.png)\r\n"
   },
   {
     "url": "https://api.github.com/repos/logseq/logseq/releases/42279233",
@@ -273,7 +273,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 104267979,
-        "download_count": 86,
+        "download_count": 87,
         "created_at": "2021-05-01T14:01:52Z",
         "updated_at": "2021-05-01T14:04:13Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.1/logseq-darwin-arm64-0.0.1.dmg"
@@ -307,7 +307,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 97099130,
-        "download_count": 264,
+        "download_count": 265,
         "created_at": "2021-04-30T16:57:36Z",
         "updated_at": "2021-04-30T16:57:39Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.1/logseq-darwin-x64-0.0.1.dmg"
@@ -443,7 +443,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 100509696,
-        "download_count": 964,
+        "download_count": 966,
         "created_at": "2021-04-30T16:57:46Z",
         "updated_at": "2021-04-30T16:57:49Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.1/logseq-win-x64-0.0.1.exe"
@@ -517,7 +517,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 102270510,
-        "download_count": 177,
+        "download_count": 179,
         "created_at": "2021-04-19T04:39:17Z",
         "updated_at": "2021-04-19T04:44:03Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/logseq-darwin-arm64-0.0.20.dmg"
@@ -551,7 +551,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 104459000,
-        "download_count": 3422,
+        "download_count": 3424,
         "created_at": "2021-04-19T04:53:51Z",
         "updated_at": "2021-04-19T04:55:43Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/Logseq-darwin-arm64-0.0.20.zip"
@@ -585,7 +585,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 98065731,
-        "download_count": 408,
+        "download_count": 410,
         "created_at": "2021-04-19T04:16:23Z",
         "updated_at": "2021-04-19T04:16:25Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/logseq-darwin-x64-0.0.20.dmg"
@@ -653,7 +653,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 96706346,
-        "download_count": 129,
+        "download_count": 130,
         "created_at": "2021-04-19T04:16:30Z",
         "updated_at": "2021-04-19T04:16:33Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/logseq-linux-x64-0.0.20.AppImage"
@@ -687,7 +687,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 95866020,
-        "download_count": 160,
+        "download_count": 161,
         "created_at": "2021-04-19T04:16:26Z",
         "updated_at": "2021-04-19T04:16:29Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/logseq-linux-x64-0.0.20.zip"
@@ -721,7 +721,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 96213504,
-        "download_count": 1336,
+        "download_count": 1341,
         "created_at": "2021-04-19T04:16:33Z",
         "updated_at": "2021-04-19T04:16:36Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.20/logseq-win-x64-0.0.20.exe"
@@ -795,7 +795,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 102271292,
-        "download_count": 99,
+        "download_count": 100,
         "created_at": "2021-04-12T14:11:09Z",
         "updated_at": "2021-04-12T14:13:25Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.19/logseq-darwin-arm64-0.0.19.dmg"
@@ -829,7 +829,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 104459673,
-        "download_count": 990,
+        "download_count": 991,
         "created_at": "2021-04-12T14:08:52Z",
         "updated_at": "2021-04-12T14:11:01Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.19/Logseq-darwin-arm64-0.0.19.zip"
@@ -863,7 +863,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 98057455,
-        "download_count": 249,
+        "download_count": 250,
         "created_at": "2021-04-12T14:04:16Z",
         "updated_at": "2021-04-12T14:04:18Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.19/logseq-darwin-x64-0.0.19.dmg"
@@ -999,7 +999,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 96211456,
-        "download_count": 780,
+        "download_count": 781,
         "created_at": "2021-04-12T14:04:24Z",
         "updated_at": "2021-04-12T14:04:26Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.19/logseq-win-x64-0.0.19.exe"
@@ -4097,7 +4097,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 93568908,
-        "download_count": 221,
+        "download_count": 222,
         "created_at": "2021-02-05T15:48:35Z",
         "updated_at": "2021-02-05T15:48:37Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.7/logseq-darwin-x64-0.0.7.dmg"
@@ -4883,6 +4883,80 @@
     ],
     "tarball_url": "https://api.github.com/repos/logseq/logseq/tarball/0.0.6.0",
     "zipball_url": "https://api.github.com/repos/logseq/logseq/zipball/0.0.6.0",
+    "body": ""
+  },
+  {
+    "url": "https://api.github.com/repos/logseq/logseq/releases/33933433",
+    "assets_url": "https://api.github.com/repos/logseq/logseq/releases/33933433/assets",
+    "upload_url": "https://uploads.github.com/repos/logseq/logseq/releases/33933433/assets{?name,label}",
+    "html_url": "https://github.com/logseq/logseq/releases/tag/0.0.1-100",
+    "id": 33933433,
+    "author": {
+      "login": "tiensonqin",
+      "id": 479169,
+      "node_id": "MDQ6VXNlcjQ3OTE2OQ==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/479169?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/tiensonqin",
+      "html_url": "https://github.com/tiensonqin",
+      "followers_url": "https://api.github.com/users/tiensonqin/followers",
+      "following_url": "https://api.github.com/users/tiensonqin/following{/other_user}",
+      "gists_url": "https://api.github.com/users/tiensonqin/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/tiensonqin/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/tiensonqin/subscriptions",
+      "organizations_url": "https://api.github.com/users/tiensonqin/orgs",
+      "repos_url": "https://api.github.com/users/tiensonqin/repos",
+      "events_url": "https://api.github.com/users/tiensonqin/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/tiensonqin/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "node_id": "MDc6UmVsZWFzZTMzOTMzNDMz",
+    "tag_name": "0.0.1-100",
+    "target_commitish": "master",
+    "name": "Backend jar",
+    "draft": false,
+    "prerelease": false,
+    "created_at": "2021-05-07T03:07:01Z",
+    "published_at": "2021-05-10T03:53:25Z",
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/31422141",
+        "id": 31422141,
+        "node_id": "MDEyOlJlbGVhc2VBc3NldDMxNDIyMTQx",
+        "name": "logseq.jar",
+        "label": null,
+        "uploader": {
+          "login": "tiensonqin",
+          "id": 479169,
+          "node_id": "MDQ6VXNlcjQ3OTE2OQ==",
+          "avatar_url": "https://avatars.githubusercontent.com/u/479169?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/tiensonqin",
+          "html_url": "https://github.com/tiensonqin",
+          "followers_url": "https://api.github.com/users/tiensonqin/followers",
+          "following_url": "https://api.github.com/users/tiensonqin/following{/other_user}",
+          "gists_url": "https://api.github.com/users/tiensonqin/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/tiensonqin/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/tiensonqin/subscriptions",
+          "organizations_url": "https://api.github.com/users/tiensonqin/orgs",
+          "repos_url": "https://api.github.com/users/tiensonqin/repos",
+          "events_url": "https://api.github.com/users/tiensonqin/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/tiensonqin/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "content_type": "application/java-archive",
+        "state": "uploaded",
+        "size": 60516414,
+        "download_count": 16,
+        "created_at": "2021-01-31T01:45:59Z",
+        "updated_at": "2021-01-31T01:46:58Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.0.1-100/logseq.jar"
+      }
+    ],
+    "tarball_url": "https://api.github.com/repos/logseq/logseq/tarball/0.0.1-100",
+    "zipball_url": "https://api.github.com/repos/logseq/logseq/zipball/0.0.1-100",
     "body": ""
   },
   {

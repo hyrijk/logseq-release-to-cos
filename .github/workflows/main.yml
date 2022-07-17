@@ -25,6 +25,9 @@ jobs:
         with:
           add: "dist/release.json"
           message: "update release.json"
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+
 
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1

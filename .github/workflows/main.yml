@@ -21,13 +21,11 @@ jobs:
         run: deno run --allow-net --allow-write --unstable --allow-read main.ts
 
       - name: commit release.json
-        uses: EndBug/add-and-commit@v7.1.0
+        uses: EndBug/add-and-commit@v9
         with:
+          default_author: github_actions
           add: "dist/release.json"
           message: "update release.json"
-          committer_name: GitHub Actions
-          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
-
 
       - name: upload to cos
         uses: Bluefissure/tencent-cos-action@v0.1.1

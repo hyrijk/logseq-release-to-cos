@@ -28,17 +28,17 @@
     "node_id": "RE_kwDOD95dbc4FLpbq",
     "tag_name": "nightly",
     "target_commitish": "488d3762628fb4c1bab2089641d92f4a03b6dd56",
-    "name": "Desktop/Android APP Nightly Release 20221223",
+    "name": "Desktop/Android APP Nightly Release 20221226",
     "draft": false,
     "prerelease": true,
-    "created_at": "2022-12-23T09:02:12Z",
-    "published_at": "2022-12-23T14:25:21Z",
+    "created_at": "2022-12-26T10:32:53Z",
+    "published_at": "2022-12-26T14:26:40Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279393",
-        "id": 89279393,
-        "node_id": "RA_kwDOD95dbc4FUkuh",
-        "name": "Logseq-android-0.8.14-nightly.20221223.apk",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541564",
+        "id": 89541564,
+        "node_id": "RA_kwDOD95dbc4FVku8",
+        "name": "Logseq-android-0.8.14-nightly.20221226.apk",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -63,16 +63,16 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 30590278,
-        "download_count": 3,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:26Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-android-0.8.14-nightly.20221223.apk"
+        "download_count": 1,
+        "created_at": "2022-12-26T14:26:41Z",
+        "updated_at": "2022-12-26T14:26:44Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-android-0.8.14-nightly.20221226.apk"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279394",
-        "id": 89279394,
-        "node_id": "RA_kwDOD95dbc4FUkui",
-        "name": "Logseq-darwin-arm64-0.8.14-nightly.20221223.dmg",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541565",
+        "id": 89541565,
+        "node_id": "RA_kwDOD95dbc4FVku9",
+        "name": "Logseq-darwin-arm64-0.8.14-nightly.20221226.dmg",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -96,17 +96,17 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 155525896,
+        "size": 155513683,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:32Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-arm64-0.8.14-nightly.20221223.dmg"
+        "created_at": "2022-12-26T14:26:41Z",
+        "updated_at": "2022-12-26T14:26:50Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-arm64-0.8.14-nightly.20221226.dmg"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279395",
-        "id": 89279395,
-        "node_id": "RA_kwDOD95dbc4FUkuj",
-        "name": "Logseq-darwin-arm64-0.8.14-nightly.20221223.zip",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541572",
+        "id": 89541572,
+        "node_id": "RA_kwDOD95dbc4FVkvE",
+        "name": "Logseq-darwin-arm64-0.8.14-nightly.20221226.zip",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -130,17 +130,17 @@
         },
         "content_type": "application/zip",
         "state": "uploaded",
-        "size": 157780379,
+        "size": 157782488,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:31Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-arm64-0.8.14-nightly.20221223.zip"
+        "created_at": "2022-12-26T14:26:42Z",
+        "updated_at": "2022-12-26T14:26:51Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-arm64-0.8.14-nightly.20221226.zip"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279399",
-        "id": 89279399,
-        "node_id": "RA_kwDOD95dbc4FUkun",
-        "name": "Logseq-darwin-x64-0.8.14-nightly.20221223.dmg",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541570",
+        "id": 89541570,
+        "node_id": "RA_kwDOD95dbc4FVkvC",
+        "name": "Logseq-darwin-x64-0.8.14-nightly.20221226.dmg",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -164,17 +164,17 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 156662585,
+        "size": 156668771,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:32Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-x64-0.8.14-nightly.20221223.dmg"
+        "created_at": "2022-12-26T14:26:42Z",
+        "updated_at": "2022-12-26T14:26:50Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-x64-0.8.14-nightly.20221226.dmg"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279392",
-        "id": 89279392,
-        "node_id": "RA_kwDOD95dbc4FUkug",
-        "name": "Logseq-darwin-x64-0.8.14-nightly.20221223.zip",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541566",
+        "id": 89541566,
+        "node_id": "RA_kwDOD95dbc4FVku-",
+        "name": "Logseq-darwin-x64-0.8.14-nightly.20221226.zip",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -198,17 +198,17 @@
         },
         "content_type": "application/zip",
         "state": "uploaded",
-        "size": 158818645,
+        "size": 158820808,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:22Z",
-        "updated_at": "2022-12-23T14:25:32Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-x64-0.8.14-nightly.20221223.zip"
+        "created_at": "2022-12-26T14:26:41Z",
+        "updated_at": "2022-12-26T14:26:51Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-darwin-x64-0.8.14-nightly.20221226.zip"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279396",
-        "id": 89279396,
-        "node_id": "RA_kwDOD95dbc4FUkuk",
-        "name": "Logseq-linux-x64-0.8.14-nightly.20221223.AppImage",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541569",
+        "id": 89541569,
+        "node_id": "RA_kwDOD95dbc4FVkvB",
+        "name": "Logseq-linux-x64-0.8.14-nightly.20221226.AppImage",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -232,17 +232,17 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 153889379,
+        "size": 153893886,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:31Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.8.14-nightly.20221223.AppImage"
+        "created_at": "2022-12-26T14:26:42Z",
+        "updated_at": "2022-12-26T14:26:50Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.8.14-nightly.20221226.AppImage"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279398",
-        "id": 89279398,
-        "node_id": "RA_kwDOD95dbc4FUkum",
-        "name": "Logseq-linux-x64-0.8.14-nightly.20221223.zip",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541563",
+        "id": 89541563,
+        "node_id": "RA_kwDOD95dbc4FVku7",
+        "name": "Logseq-linux-x64-0.8.14-nightly.20221226.zip",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -266,17 +266,17 @@
         },
         "content_type": "application/zip",
         "state": "uploaded",
-        "size": 158780721,
+        "size": 158782838,
         "download_count": 0,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:32Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.8.14-nightly.20221223.zip"
+        "created_at": "2022-12-26T14:26:41Z",
+        "updated_at": "2022-12-26T14:26:51Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-linux-x64-0.8.14-nightly.20221226.zip"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279400",
-        "id": 89279400,
-        "node_id": "RA_kwDOD95dbc4FUkuo",
-        "name": "Logseq-win-x64-0.8.14-nightly.20221223.exe",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541568",
+        "id": 89541568,
+        "node_id": "RA_kwDOD95dbc4FVkvA",
+        "name": "Logseq-win-x64-0.8.14-nightly.20221226.exe",
         "label": "",
         "uploader": {
           "login": "github-actions[bot]",
@@ -300,16 +300,16 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 185773928,
-        "download_count": 2,
-        "created_at": "2022-12-23T14:25:24Z",
-        "updated_at": "2022-12-23T14:25:33Z",
-        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-0.8.14-nightly.20221223.exe"
+        "size": 185775464,
+        "download_count": 0,
+        "created_at": "2022-12-26T14:26:42Z",
+        "updated_at": "2022-12-26T14:26:53Z",
+        "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-0.8.14-nightly.20221226.exe"
       },
       {
-        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89279397",
-        "id": 89279397,
-        "node_id": "RA_kwDOD95dbc4FUkul",
+        "url": "https://api.github.com/repos/logseq/logseq/releases/assets/89541567",
+        "id": 89541567,
+        "node_id": "RA_kwDOD95dbc4FVku_",
         "name": "SHA256SUMS.txt",
         "label": "",
         "uploader": {
@@ -335,9 +335,9 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 1013,
-        "download_count": 1,
-        "created_at": "2022-12-23T14:25:23Z",
-        "updated_at": "2022-12-23T14:25:23Z",
+        "download_count": 0,
+        "created_at": "2022-12-26T14:26:42Z",
+        "updated_at": "2022-12-26T14:26:42Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/nightly/SHA256SUMS.txt"
       }
     ],
@@ -346,13 +346,13 @@
     "body": "This is a nightly release of the Logseq desktop app.\nIt's unstable compared to the official releases, **use it with caution**!",
     "reactions": {
       "url": "https://api.github.com/repos/logseq/logseq/releases/86939370/reactions",
-      "total_count": 5,
+      "total_count": 8,
       "+1": 1,
       "-1": 0,
-      "laugh": 1,
+      "laugh": 2,
       "hooray": 1,
       "confused": 0,
-      "heart": 1,
+      "heart": 3,
       "rocket": 1,
       "eyes": 0
     }
@@ -421,7 +421,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 30586182,
-        "download_count": 808,
+        "download_count": 1182,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:10:59Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-android-0.8.14.apk"
@@ -455,7 +455,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 155532477,
-        "download_count": 781,
+        "download_count": 1158,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:11:04Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-darwin-arm64-0.8.14.dmg"
@@ -489,7 +489,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 157775139,
-        "download_count": 37669,
+        "download_count": 70528,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:11:05Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-darwin-arm64-0.8.14.zip"
@@ -523,7 +523,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156678259,
-        "download_count": 939,
+        "download_count": 1527,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:11:06Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-darwin-x64-0.8.14.dmg"
@@ -557,7 +557,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 158813336,
-        "download_count": 47026,
+        "download_count": 87888,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:11:07Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-darwin-x64-0.8.14.zip"
@@ -591,7 +591,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 153885117,
-        "download_count": 459,
+        "download_count": 692,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:11:06Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-linux-x64-0.8.14.AppImage"
@@ -625,7 +625,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 158775412,
-        "download_count": 811,
+        "download_count": 1161,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:11:05Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-linux-x64-0.8.14.zip"
@@ -659,7 +659,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 186429332,
-        "download_count": 8827,
+        "download_count": 13295,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:11:07Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-win-x64-0.8.14-full.nupkg"
@@ -693,7 +693,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185766760,
-        "download_count": 4488,
+        "download_count": 6788,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:11:07Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/Logseq-win-x64-0.8.14.exe"
@@ -727,7 +727,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 86,
-        "download_count": 329,
+        "download_count": 634,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:10:56Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/RELEASES"
@@ -761,7 +761,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 935,
-        "download_count": 45,
+        "download_count": 55,
         "created_at": "2022-12-20T14:10:57Z",
         "updated_at": "2022-12-20T14:10:57Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/SHA256SUMS.txt"
@@ -795,7 +795,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7,
-        "download_count": 6,
+        "download_count": 11,
         "created_at": "2022-12-20T14:10:56Z",
         "updated_at": "2022-12-20T14:10:56Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.14/VERSION"
@@ -806,13 +806,13 @@
     "body": "- [[Fixed issues]]  \r\n\t- Raw file editor content cleared when on-blur [#7787](https://github.com/logseq/logseq/pull/7787)  \r\n\t- Linked references filter is empty [#7793](https://github.com/logseq/logseq/pull/7793)  \r\n\r\n**Full Changelog**: https://github.com/logseq/logseq/compare/0.8.13...0.8.14",
     "reactions": {
       "url": "https://api.github.com/repos/logseq/logseq/releases/86656211/reactions",
-      "total_count": 17,
-      "+1": 11,
+      "total_count": 19,
+      "+1": 12,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
-      "heart": 6,
+      "heart": 7,
       "rocket": 0,
       "eyes": 0
     }
@@ -881,7 +881,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 30586182,
-        "download_count": 458,
+        "download_count": 470,
         "created_at": "2022-12-19T18:06:13Z",
         "updated_at": "2022-12-19T18:06:16Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-android-0.8.13.apk"
@@ -915,7 +915,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 155527169,
-        "download_count": 329,
+        "download_count": 333,
         "created_at": "2022-12-19T18:06:14Z",
         "updated_at": "2022-12-19T18:06:23Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-darwin-arm64-0.8.13.dmg"
@@ -983,7 +983,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156667329,
-        "download_count": 396,
+        "download_count": 399,
         "created_at": "2022-12-19T18:06:14Z",
         "updated_at": "2022-12-19T18:06:22Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-darwin-x64-0.8.13.dmg"
@@ -1017,7 +1017,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 158813141,
-        "download_count": 13453,
+        "download_count": 13454,
         "created_at": "2022-12-19T18:06:13Z",
         "updated_at": "2022-12-19T18:06:24Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-darwin-x64-0.8.13.zip"
@@ -1051,7 +1051,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 153880632,
-        "download_count": 194,
+        "download_count": 198,
         "created_at": "2022-12-19T18:06:13Z",
         "updated_at": "2022-12-19T18:06:22Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-linux-x64-0.8.13.AppImage"
@@ -1153,7 +1153,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185767272,
-        "download_count": 2151,
+        "download_count": 2167,
         "created_at": "2022-12-19T18:06:14Z",
         "updated_at": "2022-12-19T18:06:25Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/Logseq-win-x64-0.8.13.exe"
@@ -1255,7 +1255,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2022-12-19T18:06:14Z",
         "updated_at": "2022-12-19T18:06:14Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.13/VERSION"
@@ -1263,7 +1263,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/logseq/logseq/tarball/0.8.13",
     "zipball_url": "https://api.github.com/repos/logseq/logseq/zipball/0.8.13",
-    "body": "**Known Issue**: File editor for `config.edn` and `custom.css` doesn't work properly. We will fix this soon.\r\n\r\n- [[Enhancement]]  \r\n\t- Open the keyboard shortcuts helping page on the right side panel [#7550](https://github.com/logseq/logseq/pull/7550)  \r\n\t- Refine Network proxy support, add proxy support to Logseq Sync [#7711](https://github.com/logseq/logseq/pull/7711)  \r\n\t- Improve query performance [#7708](https://github.com/logseq/logseq/pull/7708)  \r\n\t- Plugin API enhancements [#7555](https://github.com/logseq/logseq/pull/7555) [#7549](https://github.com/logseq/logseq/pull/7549) [#7716](https://github.com/logseq/logseq/pull/7716)  \r\n\t- Added shortcut for closing the right sidebar top item [#7622](https://github.com/logseq/logseq/pull/7622)  \r\n\t- Added support for urls to heading blocks in web and published apps [#7668](https://github.com/logseq/logseq/pull/7668) - [See Documentation](https://docs.logseq.com/#/page/publishing/block/available%20urls)\r\n- [[Breaking Changes]]  \r\n\t- Change \"Git commit\" shortcut from a single `c` to `mod+g c` [#7609](https://github.com/logseq/logseq/pull/7609)  \r\n\t- Introduce a new config property `:logseq.query/nlp-date`. Default to `false`. Query without `logseq.query/nlp-date:: true` would disable date normalization [#7708](https://github.com/logseq/logseq/pull/7708)  \r\n- [[Thanks]]  \r\n\t- [[Bad3r]]  \r\n\t\t- Enhance(dev): add `cljs:dev-release-electron`  \r\n\t\t- Do not use posthog when dev  \r\n\t\t- Minor fixes in README.md  \r\n\t- [[Sebastian Sosa]]  \r\n\t\t- Added shortcut for closing the right sidebar top item  \r\n\t- [[queeup]]  \r\n\t\t- Update Turkish translation  \r\n\t- [[sallto]]  \r\n\t\t- Fix link can't be pasted on selected text in block content  \r\n\t\t- Fix overflow of installed plugin settings dialog  \r\n\t\t- Fix: prevent 2 Datepickers from being open at the same time  \r\n\t- [[Siddharth Yadav]]  \r\n\t\t- Fix: update code edit state for the code blocks that are opened in main area and sidebar, as embeds  \r\n\t- [[situ2001]]  \r\n\t\t- Provide i18n for settings-page  \r\n\t\t- Fixes for PDF context menu  \r\n\t- [[Sergey Kolesnik]]  \r\n\t\t- Fix a bunch of sanity in search palette CSS  \r\n\t- [[SteOtt]]  \r\n\t\t- Update README.md  \r\n\t- [[Manuel]]  \r\n\t\t- Add keepUUID option to insertBatchBlock plugin API  \r\n\t- [[usoon]]  \r\n\t\t- Fix: group linked references by parent  \r\n\t- [[xxchan]]  \r\n\t\t- Dev update: link to forum directly for feature requests & questions  \r\n- [[Fixed issues]]  \r\n\t- Validates global config [#7620](https://github.com/logseq/logseq/pull/7620) [#7651](https://github.com/logseq/logseq/pull/7651)  \r\n\t- Block reference only returns the first level of data [#7776](https://github.com/logseq/logseq/pull/7776)  \r\n\t- Copy block-ref instantly after input text lost block content [#7732](https://github.com/logseq/logseq/pull/7732)  \r\n\t- Group linked references by parent [#7613](https://github.com/logseq/logseq/pull/7613)  \r\n\t- Highlight text color on light themes [#7599](https://github.com/logseq/logseq/pull/7599)  \r\n\t- Link can't be pasted on selected text in block content [#7618](https://github.com/logseq/logseq/pull/7618)  \r\n\t- Missing children in linked references [#7626](https://github.com/logseq/logseq/pull/7626)  \r\n\t- Open inline block refs by default when zooming in a block [#7650](https://github.com/logseq/logseq/pull/7650)  \r\n\t- Remove spaces around CJK characters when auto-complete pages [#7631](https://github.com/logseq/logseq/pull/7631)  \r\n\t- Remove orphaned files/blocks from DB when comparing DB and disk [#7686](https://github.com/logseq/logseq/pull/7686)  \r\n\t- Some PDF context menu fix [#7690](https://github.com/logseq/logseq/pull/7690)  \r\n\t- Update code edit state for the code blocks that are opened in main area and sidebar, as embeds [#7639](https://github.com/logseq/logseq/pull/7639)  \r\n\t- Bug fixes for Logseq Sync, in handling file deletion and renaming  \r\n- [[Mobile Specific]]  \r\n\t- Always show hamburger button [#7512](https://github.com/logseq/logseq/pull/7512)  \r\n\t- Mobile UX enhancements [#7492](https://github.com/logseq/logseq/pull/7492)  \r\n\r\n**Full Changelog**: https://github.com/logseq/logseq/compare/0.8.12...0.8.13",
+    "body": "**Known Issue**: File editor for `config.edn` and `custom.css` doesn't work properly. We will fix this soon.\r\n\r\n- [[Enhancement]]  \r\n\t- Open the keyboard shortcuts helping page on the right side panel [#7550](https://github.com/logseq/logseq/pull/7550)  \r\n\t- Refine Network proxy support, add proxy support to Logseq Sync [#7711](https://github.com/logseq/logseq/pull/7711)  \r\n\t- Improve query performance [#7708](https://github.com/logseq/logseq/pull/7708)  \r\n\t- Plugin API enhancements [#7555](https://github.com/logseq/logseq/pull/7555) [#7549](https://github.com/logseq/logseq/pull/7549) [#7716](https://github.com/logseq/logseq/pull/7716)  \r\n\t- Added shortcut for closing the right sidebar top item [#7622](https://github.com/logseq/logseq/pull/7622)  \r\n\t- Added support for urls to heading blocks in web and published apps [#7668](https://github.com/logseq/logseq/pull/7668) - [See Documentation](https://docs.logseq.com/#/page/publishing/block/available%20urls)\r\n- [[Breaking Changes]]  \r\n\t- Change \"Git commit\" shortcut from a single `c` to `mod+g c` [#7609](https://github.com/logseq/logseq/pull/7609)  \r\n\t- Introduce a new query block property `:logseq.query/nlp-date`. Default to `false`. Query without `logseq.query/nlp-date:: true` would disable date normalization [#7708](https://github.com/logseq/logseq/pull/7708)  \r\n- [[Thanks]]  \r\n\t- [[Bad3r]]  \r\n\t\t- Enhance(dev): add `cljs:dev-release-electron`  \r\n\t\t- Do not use posthog when dev  \r\n\t\t- Minor fixes in README.md  \r\n\t- [[Sebastian Sosa]]  \r\n\t\t- Added shortcut for closing the right sidebar top item  \r\n\t- [[queeup]]  \r\n\t\t- Update Turkish translation  \r\n\t- [[sallto]]  \r\n\t\t- Fix link can't be pasted on selected text in block content  \r\n\t\t- Fix overflow of installed plugin settings dialog  \r\n\t\t- Fix: prevent 2 Datepickers from being open at the same time  \r\n\t- [[Siddharth Yadav]]  \r\n\t\t- Fix: update code edit state for the code blocks that are opened in main area and sidebar, as embeds  \r\n\t- [[situ2001]]  \r\n\t\t- Provide i18n for settings-page  \r\n\t\t- Fixes for PDF context menu  \r\n\t- [[Sergey Kolesnik]]  \r\n\t\t- Fix a bunch of sanity in search palette CSS  \r\n\t- [[SteOtt]]  \r\n\t\t- Update README.md  \r\n\t- [[Manuel]]  \r\n\t\t- Add keepUUID option to insertBatchBlock plugin API  \r\n\t- [[usoon]]  \r\n\t\t- Fix: group linked references by parent  \r\n\t- [[xxchan]]  \r\n\t\t- Dev update: link to forum directly for feature requests & questions  \r\n- [[Fixed issues]]  \r\n\t- Validates global config [#7620](https://github.com/logseq/logseq/pull/7620) [#7651](https://github.com/logseq/logseq/pull/7651)  \r\n\t- Block reference only returns the first level of data [#7776](https://github.com/logseq/logseq/pull/7776)  \r\n\t- Copy block-ref instantly after input text lost block content [#7732](https://github.com/logseq/logseq/pull/7732)  \r\n\t- Group linked references by parent [#7613](https://github.com/logseq/logseq/pull/7613)  \r\n\t- Highlight text color on light themes [#7599](https://github.com/logseq/logseq/pull/7599)  \r\n\t- Link can't be pasted on selected text in block content [#7618](https://github.com/logseq/logseq/pull/7618)  \r\n\t- Missing children in linked references [#7626](https://github.com/logseq/logseq/pull/7626)  \r\n\t- Open inline block refs by default when zooming in a block [#7650](https://github.com/logseq/logseq/pull/7650)  \r\n\t- Remove spaces around CJK characters when auto-complete pages [#7631](https://github.com/logseq/logseq/pull/7631)  \r\n\t- Remove orphaned files/blocks from DB when comparing DB and disk [#7686](https://github.com/logseq/logseq/pull/7686)  \r\n\t- Some PDF context menu fix [#7690](https://github.com/logseq/logseq/pull/7690)  \r\n\t- Update code edit state for the code blocks that are opened in main area and sidebar, as embeds [#7639](https://github.com/logseq/logseq/pull/7639)  \r\n\t- Bug fixes for Logseq Sync, in handling file deletion and renaming  \r\n- [[Mobile Specific]]  \r\n\t- Always show hamburger button [#7512](https://github.com/logseq/logseq/pull/7512)  \r\n\t- Mobile UX enhancements [#7492](https://github.com/logseq/logseq/pull/7492)  \r\n\r\n**Full Changelog**: https://github.com/logseq/logseq/compare/0.8.12...0.8.13",
     "discussion_url": "https://github.com/logseq/logseq/discussions/7782",
     "reactions": {
       "url": "https://api.github.com/repos/logseq/logseq/releases/86567617/reactions",
@@ -1342,7 +1342,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 30565702,
-        "download_count": 2370,
+        "download_count": 2376,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:47Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-android-0.8.12.apk"
@@ -1376,7 +1376,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 152705464,
-        "download_count": 3545,
+        "download_count": 3555,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-darwin-arm64-0.8.12.dmg"
@@ -1410,7 +1410,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 154782397,
-        "download_count": 207254,
+        "download_count": 207255,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-darwin-arm64-0.8.12.zip"
@@ -1444,7 +1444,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156320916,
-        "download_count": 6048,
+        "download_count": 6054,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:55Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-darwin-x64-0.8.12.dmg"
@@ -1478,7 +1478,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 158340765,
-        "download_count": 246338,
+        "download_count": 246339,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:53Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-darwin-x64-0.8.12.zip"
@@ -1512,7 +1512,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 153626802,
-        "download_count": 2210,
+        "download_count": 2214,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:57Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-linux-x64-0.8.12.AppImage"
@@ -1546,7 +1546,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 158324777,
-        "download_count": 2261,
+        "download_count": 2262,
         "created_at": "2022-12-02T08:00:44Z",
         "updated_at": "2022-12-02T08:00:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-linux-x64-0.8.12.zip"
@@ -1580,7 +1580,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185966959,
-        "download_count": 21635,
+        "download_count": 21638,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:54Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-win-x64-0.8.12-full.nupkg"
@@ -1614,7 +1614,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185369960,
-        "download_count": 19336,
+        "download_count": 19353,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:55Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/Logseq-win-x64-0.8.12.exe"
@@ -1648,7 +1648,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 86,
-        "download_count": 1814,
+        "download_count": 1816,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:45Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/RELEASES"
@@ -1716,7 +1716,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 7,
-        "download_count": 33,
+        "download_count": 35,
         "created_at": "2022-12-02T08:00:45Z",
         "updated_at": "2022-12-02T08:00:45Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.12/VERSION"
@@ -1837,7 +1837,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 153289567,
-        "download_count": 3351,
+        "download_count": 3352,
         "created_at": "2022-11-16T14:19:37Z",
         "updated_at": "2022-11-16T14:19:44Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.11/Logseq-darwin-arm64-0.8.11.dmg"
@@ -1905,7 +1905,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156890899,
-        "download_count": 5555,
+        "download_count": 5556,
         "created_at": "2022-11-16T14:19:37Z",
         "updated_at": "2022-11-16T14:19:44Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.11/Logseq-darwin-x64-0.8.11.dmg"
@@ -1973,7 +1973,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 154264699,
-        "download_count": 2202,
+        "download_count": 2203,
         "created_at": "2022-11-16T14:19:39Z",
         "updated_at": "2022-11-16T14:19:48Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.11/Logseq-linux-x64-0.8.11.AppImage"
@@ -2075,7 +2075,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 186001256,
-        "download_count": 19509,
+        "download_count": 19517,
         "created_at": "2022-11-16T14:19:38Z",
         "updated_at": "2022-11-16T14:19:49Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.11/Logseq-win-x64-0.8.11.exe"
@@ -2264,7 +2264,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 28521424,
-        "download_count": 2058,
+        "download_count": 2059,
         "created_at": "2022-11-01T12:58:29Z",
         "updated_at": "2022-11-01T12:58:32Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.10/Logseq-android-0.8.10.apk"
@@ -2298,7 +2298,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 151095939,
-        "download_count": 2670,
+        "download_count": 2673,
         "created_at": "2022-11-01T12:58:29Z",
         "updated_at": "2022-11-01T12:58:40Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.10/Logseq-darwin-arm64-0.8.10.dmg"
@@ -2434,7 +2434,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 152087671,
-        "download_count": 1672,
+        "download_count": 1673,
         "created_at": "2022-11-01T12:58:29Z",
         "updated_at": "2022-11-01T12:58:40Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.10/Logseq-linux-x64-0.8.10.AppImage"
@@ -2536,7 +2536,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 183839080,
-        "download_count": 15359,
+        "download_count": 15364,
         "created_at": "2022-11-01T12:58:28Z",
         "updated_at": "2022-11-01T12:58:39Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.10/Logseq-win-x64-0.8.10.exe"
@@ -2895,7 +2895,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 152030219,
-        "download_count": 1655,
+        "download_count": 1656,
         "created_at": "2022-10-18T20:39:29Z",
         "updated_at": "2022-10-18T20:39:39Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.9/Logseq-linux-x64-0.8.9.AppImage"
@@ -2997,7 +2997,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 183800680,
-        "download_count": 15216,
+        "download_count": 15228,
         "created_at": "2022-10-18T20:39:29Z",
         "updated_at": "2022-10-18T20:39:42Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.9/Logseq-win-x64-0.8.9.exe"
@@ -3186,7 +3186,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 27753624,
-        "download_count": 2303,
+        "download_count": 2304,
         "created_at": "2022-09-30T11:14:42Z",
         "updated_at": "2022-09-30T11:14:45Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.8/Logseq-android-0.8.8.apk"
@@ -3220,7 +3220,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 148378047,
-        "download_count": 3358,
+        "download_count": 3359,
         "created_at": "2022-09-30T11:14:41Z",
         "updated_at": "2022-09-30T11:14:50Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.8/Logseq-darwin-arm64-0.8.8.dmg"
@@ -3288,7 +3288,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 151986160,
-        "download_count": 5303,
+        "download_count": 5304,
         "created_at": "2022-09-30T11:14:42Z",
         "updated_at": "2022-09-30T11:14:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.8/Logseq-darwin-x64-0.8.8.dmg"
@@ -3458,7 +3458,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 181270888,
-        "download_count": 19146,
+        "download_count": 19156,
         "created_at": "2022-09-30T11:14:42Z",
         "updated_at": "2022-09-30T11:14:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.8/Logseq-win-x64-0.8.8.exe"
@@ -3681,7 +3681,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 147886911,
-        "download_count": 2362,
+        "download_count": 2363,
         "created_at": "2022-09-14T16:25:25Z",
         "updated_at": "2022-09-14T16:25:35Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.7/Logseq-darwin-arm64-0.8.7.dmg"
@@ -3919,7 +3919,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 179007336,
-        "download_count": 15491,
+        "download_count": 15498,
         "created_at": "2022-09-14T16:25:25Z",
         "updated_at": "2022-09-14T16:25:34Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.7/Logseq-win-x64-0.8.7.exe"
@@ -4209,7 +4209,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 149733910,
-        "download_count": 459,
+        "download_count": 460,
         "created_at": "2022-09-13T15:24:28Z",
         "updated_at": "2022-09-13T15:24:32Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.6/Logseq-darwin-x64-0.8.6.dmg"
@@ -4379,7 +4379,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 179003752,
-        "download_count": 2931,
+        "download_count": 2936,
         "created_at": "2022-09-13T15:24:29Z",
         "updated_at": "2022-09-13T15:24:34Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.6/Logseq-win-x64-0.8.6.exe"
@@ -4840,7 +4840,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 178900328,
-        "download_count": 8525,
+        "download_count": 8531,
         "created_at": "2022-09-07T04:05:58Z",
         "updated_at": "2022-09-07T04:06:10Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.5/Logseq-win-x64-0.8.5.exe"
@@ -5063,7 +5063,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 148253560,
-        "download_count": 1064,
+        "download_count": 1065,
         "created_at": "2022-09-01T16:33:43Z",
         "updated_at": "2022-09-01T16:33:56Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.4/Logseq-darwin-arm64-0.8.4.dmg"
@@ -5267,7 +5267,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 178466200,
-        "download_count": 8011,
+        "download_count": 8017,
         "created_at": "2022-09-01T16:33:44Z",
         "updated_at": "2022-09-01T16:33:55Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.4/Logseq-win-x64-0.8.4.exe"
@@ -5455,7 +5455,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 148232247,
-        "download_count": 360,
+        "download_count": 361,
         "created_at": "2022-08-31T17:19:14Z",
         "updated_at": "2022-08-31T17:19:21Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.3/Logseq-darwin-arm64-0.8.3.dmg"
@@ -5523,7 +5523,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 149797660,
-        "download_count": 415,
+        "download_count": 416,
         "created_at": "2022-08-31T17:19:13Z",
         "updated_at": "2022-08-31T17:19:21Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.3/Logseq-darwin-x64-0.8.3.dmg"
@@ -5659,7 +5659,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 178465176,
-        "download_count": 2715,
+        "download_count": 2721,
         "created_at": "2022-08-31T17:19:13Z",
         "updated_at": "2022-08-31T17:19:24Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.3/Logseq-win-x64-0.8.3.exe"
@@ -6052,7 +6052,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 177959936,
-        "download_count": 11643,
+        "download_count": 11652,
         "created_at": "2022-08-23T04:09:48Z",
         "updated_at": "2022-08-23T04:09:57Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.2/Logseq-win-x64-0.8.2.exe"
@@ -6445,7 +6445,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 177878528,
-        "download_count": 8321,
+        "download_count": 8327,
         "created_at": "2022-08-16T15:47:33Z",
         "updated_at": "2022-08-16T15:47:42Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.1/Logseq-win-x64-0.8.1.exe"
@@ -6838,7 +6838,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 157036032,
-        "download_count": 10376,
+        "download_count": 10382,
         "created_at": "2022-08-08T14:15:48Z",
         "updated_at": "2022-08-08T14:15:55Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.8.0/Logseq-win-x64-0.8.0.exe"
@@ -7231,7 +7231,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156985344,
-        "download_count": 13558,
+        "download_count": 13564,
         "created_at": "2022-07-27T07:25:05Z",
         "updated_at": "2022-07-27T07:25:12Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.9/Logseq-win-x64-0.7.9.exe"
@@ -7624,7 +7624,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156806144,
-        "download_count": 8939,
+        "download_count": 8946,
         "created_at": "2022-07-21T00:19:25Z",
         "updated_at": "2022-07-21T00:19:33Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.8/Logseq-win-x64-0.7.8.exe"
@@ -8016,7 +8016,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156805632,
-        "download_count": 2272,
+        "download_count": 2278,
         "created_at": "2022-07-20T08:17:17Z",
         "updated_at": "2022-07-20T08:17:26Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.7/Logseq-win-x64-0.7.7.exe"
@@ -8409,7 +8409,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156644864,
-        "download_count": 15859,
+        "download_count": 15869,
         "created_at": "2022-07-04T17:49:20Z",
         "updated_at": "2022-07-04T17:49:28Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.6/Logseq-win-x64-0.7.6.exe"
@@ -8802,7 +8802,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156633600,
-        "download_count": 943,
+        "download_count": 954,
         "created_at": "2022-07-04T13:37:46Z",
         "updated_at": "2022-07-04T13:37:53Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.5/Logseq-win-x64-0.7.5.exe"
@@ -9195,7 +9195,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156529152,
-        "download_count": 7511,
+        "download_count": 7517,
         "created_at": "2022-06-13T17:39:45Z",
         "updated_at": "2022-06-13T17:39:56Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.4/Logseq-win-x64-0.7.4.exe"
@@ -9588,7 +9588,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156517376,
-        "download_count": 5845,
+        "download_count": 5853,
         "created_at": "2022-06-08T16:05:01Z",
         "updated_at": "2022-06-08T16:05:09Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.3/Logseq-win-x64-0.7.3.exe"
@@ -9981,7 +9981,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156643328,
-        "download_count": 2523,
+        "download_count": 2529,
         "created_at": "2022-06-07T09:00:23Z",
         "updated_at": "2022-06-07T09:00:32Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.2/Logseq-win-x64-0.7.2.exe"
@@ -10374,7 +10374,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156608512,
-        "download_count": 6052,
+        "download_count": 6058,
         "created_at": "2022-06-01T11:04:18Z",
         "updated_at": "2022-06-01T11:04:26Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.1/Logseq-win-x64-0.7.1.exe"
@@ -10767,7 +10767,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156139008,
-        "download_count": 7649,
+        "download_count": 7655,
         "created_at": "2022-05-24T16:25:45Z",
         "updated_at": "2022-05-24T16:25:53Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.7.0/Logseq-win-x64-0.7.0.exe"
@@ -11160,7 +11160,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 166341632,
-        "download_count": 8474,
+        "download_count": 8480,
         "created_at": "2022-05-16T14:01:27Z",
         "updated_at": "2022-05-16T14:01:35Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.9/Logseq-win-x64-0.6.9.exe"
@@ -11553,7 +11553,7 @@
         "content_type": "application/x-msdownload",
         "state": "uploaded",
         "size": 166123008,
-        "download_count": 8377,
+        "download_count": 8392,
         "created_at": "2022-05-10T03:25:32Z",
         "updated_at": "2022-05-10T03:31:33Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.8/Logseq-win-x64-0.6.8.exe"
@@ -11946,7 +11946,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 164533248,
-        "download_count": 9889,
+        "download_count": 9903,
         "created_at": "2022-04-29T13:39:31Z",
         "updated_at": "2022-04-29T13:39:38Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.7/Logseq-win-x64-0.6.7.exe"
@@ -12135,7 +12135,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159429027,
-        "download_count": 1988,
+        "download_count": 1989,
         "created_at": "2022-04-18T02:22:08Z",
         "updated_at": "2022-04-18T02:22:17Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.6/Logseq-darwin-arm64-0.6.6.dmg"
@@ -12339,7 +12339,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 165654528,
-        "download_count": 10637,
+        "download_count": 10655,
         "created_at": "2022-04-18T02:22:09Z",
         "updated_at": "2022-04-18T02:22:17Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.6/Logseq-win-x64-0.6.6.exe"
@@ -12596,7 +12596,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 148055715,
-        "download_count": 5979,
+        "download_count": 5981,
         "created_at": "2022-03-24T06:22:05Z",
         "updated_at": "2022-03-24T06:22:13Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.5/Logseq-darwin-x64-0.6.5.dmg"
@@ -12732,7 +12732,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 161697792,
-        "download_count": 17885,
+        "download_count": 17896,
         "created_at": "2022-03-24T06:22:06Z",
         "updated_at": "2022-03-24T06:22:14Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.5/Logseq-win-x64-0.6.5.exe"
@@ -13125,7 +13125,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 161693184,
-        "download_count": 4339,
+        "download_count": 4345,
         "created_at": "2022-03-20T14:06:41Z",
         "updated_at": "2022-03-20T14:06:50Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.4/Logseq-win-x64-0.6.4.exe"
@@ -13518,7 +13518,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158856704,
-        "download_count": 8271,
+        "download_count": 8277,
         "created_at": "2022-03-10T16:39:12Z",
         "updated_at": "2022-03-10T16:39:21Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.3/Logseq-win-x64-0.6.3.exe"
@@ -13912,7 +13912,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 157243904,
-        "download_count": 3278,
+        "download_count": 3284,
         "created_at": "2022-03-08T12:41:09Z",
         "updated_at": "2022-03-08T12:41:18Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.2/Logseq-win-x64-0.6.2.exe"
@@ -14271,7 +14271,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 157336576,
-        "download_count": 12696,
+        "download_count": 12702,
         "created_at": "2022-02-19T18:26:45Z",
         "updated_at": "2022-02-19T18:26:53Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.1/Logseq-win-x64-0.6.1.exe"
@@ -14562,7 +14562,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158263483,
-        "download_count": 547,
+        "download_count": 550,
         "created_at": "2022-02-18T15:23:35Z",
         "updated_at": "2022-02-18T15:23:44Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.0/Logseq-linux-x64-0.6.0.AppImage"
@@ -14630,7 +14630,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 157376000,
-        "download_count": 2123,
+        "download_count": 2129,
         "created_at": "2022-02-18T15:23:35Z",
         "updated_at": "2022-02-18T15:23:46Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.6.0/Logseq-win-x64-0.6.0.exe"
@@ -15023,7 +15023,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158208512,
-        "download_count": 20354,
+        "download_count": 20360,
         "created_at": "2022-01-20T13:49:13Z",
         "updated_at": "2022-01-20T13:49:23Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.9/Logseq-win-x64-0.5.9.exe"
@@ -15382,7 +15382,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158025216,
-        "download_count": 9864,
+        "download_count": 9870,
         "created_at": "2022-01-06T06:01:41Z",
         "updated_at": "2022-01-06T06:01:49Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.8/Logseq-win-x64-0.5.8.exe"
@@ -16202,7 +16202,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158006272,
-        "download_count": 3598,
+        "download_count": 3604,
         "created_at": "2021-12-29T10:28:00Z",
         "updated_at": "2021-12-29T10:28:09Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.6/Logseq-win-x64-0.5.6.exe"
@@ -16594,7 +16594,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158821888,
-        "download_count": 2633,
+        "download_count": 2639,
         "created_at": "2021-12-25T14:59:14Z",
         "updated_at": "2021-12-25T14:59:24Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.5/Logseq-win-x64-0.5.5.exe"
@@ -16952,7 +16952,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 155856896,
-        "download_count": 4977,
+        "download_count": 4983,
         "created_at": "2021-12-25T02:40:43Z",
         "updated_at": "2021-12-25T02:40:52Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.4/Logseq-win-x64-0.5.4.exe"
@@ -17310,7 +17310,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 154942976,
-        "download_count": 2757,
+        "download_count": 2765,
         "created_at": "2021-12-12T09:14:05Z",
         "updated_at": "2021-12-12T09:14:12Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.3/Logseq-win-x64-0.5.3.exe"
@@ -17668,7 +17668,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 154939392,
-        "download_count": 2028,
+        "download_count": 2034,
         "created_at": "2021-12-10T16:02:06Z",
         "updated_at": "2021-12-10T16:02:16Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.2/Logseq-win-x64-0.5.2.exe"
@@ -17908,7 +17908,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 16324436,
-        "download_count": 2787,
+        "download_count": 2789,
         "created_at": "2021-12-08T05:28:27Z",
         "updated_at": "2021-12-08T05:28:39Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/mobile-0.1.1/logseq-android-0.1.1.apk"
@@ -17994,7 +17994,7 @@
         "content_type": "application/x-apple-diskimage",
         "state": "uploaded",
         "size": 149802929,
-        "download_count": 2049,
+        "download_count": 2050,
         "created_at": "2021-11-25T07:38:10Z",
         "updated_at": "2021-11-25T07:38:13Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.1/logseq-darwin-arm64-0.5.1.dmg"
@@ -18198,7 +18198,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156818432,
-        "download_count": 9479,
+        "download_count": 9485,
         "created_at": "2021-11-25T07:38:22Z",
         "updated_at": "2021-11-25T07:38:26Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.1/logseq-win-x64-0.5.1.exe"
@@ -18488,7 +18488,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156814848,
-        "download_count": 1666,
+        "download_count": 1672,
         "created_at": "2021-11-24T15:43:28Z",
         "updated_at": "2021-11-24T15:43:31Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.5.0/logseq-win-x64-0.5.0.exe"
@@ -18778,7 +18778,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156519936,
-        "download_count": 4111,
+        "download_count": 4117,
         "created_at": "2021-11-18T15:12:12Z",
         "updated_at": "2021-11-18T15:12:15Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.9/logseq-win-x64-0.4.9.exe"
@@ -19648,7 +19648,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 141157888,
-        "download_count": 1984,
+        "download_count": 1990,
         "created_at": "2021-11-16T16:29:02Z",
         "updated_at": "2021-11-16T16:29:07Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.6/logseq-win-x64-0.4.6.exe"
@@ -19938,7 +19938,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 141170176,
-        "download_count": 5406,
+        "download_count": 5412,
         "created_at": "2021-11-06T13:09:31Z",
         "updated_at": "2021-11-06T13:09:36Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.5/logseq-win-x64-0.4.5.exe"
@@ -20228,7 +20228,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 141974016,
-        "download_count": 9033,
+        "download_count": 9039,
         "created_at": "2021-10-13T01:49:11Z",
         "updated_at": "2021-10-13T01:49:14Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.4/logseq-win-x64-0.4.4.exe"
@@ -20518,7 +20518,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 158716416,
-        "download_count": 2059,
+        "download_count": 2065,
         "created_at": "2021-10-11T14:20:04Z",
         "updated_at": "2021-10-11T14:20:13Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.3/logseq-win-x64-0.4.3.exe"
@@ -20809,7 +20809,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 141013504,
-        "download_count": 4569,
+        "download_count": 4575,
         "created_at": "2021-09-29T16:03:08Z",
         "updated_at": "2021-09-29T16:03:11Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.2/logseq-win-x64-0.4.2.exe"
@@ -21099,7 +21099,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 138921472,
-        "download_count": 3535,
+        "download_count": 3541,
         "created_at": "2021-09-23T14:24:41Z",
         "updated_at": "2021-09-23T14:24:44Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.1/logseq-win-x64-0.4.1.exe"
@@ -21389,7 +21389,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 138922496,
-        "download_count": 1753,
+        "download_count": 1759,
         "created_at": "2021-09-22T14:29:38Z",
         "updated_at": "2021-09-22T14:29:41Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.4.0/logseq-win-x64-0.4.0.exe"
@@ -21679,7 +21679,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 138868224,
-        "download_count": 3443,
+        "download_count": 3449,
         "created_at": "2021-09-15T15:23:29Z",
         "updated_at": "2021-09-15T15:23:35Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.3.9/logseq-win-x64-0.3.9.exe"
@@ -21969,7 +21969,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 138458624,
-        "download_count": 3047,
+        "download_count": 3053,
         "created_at": "2021-09-11T15:01:37Z",
         "updated_at": "2021-09-11T15:01:41Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.3.8/logseq-win-x64-0.3.8.exe"
@@ -22259,7 +22259,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 138456576,
-        "download_count": 4697,
+        "download_count": 4703,
         "created_at": "2021-09-02T04:35:37Z",
         "updated_at": "2021-09-02T04:35:40Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.3.7/logseq-win-x64-0.3.7.exe"
@@ -22447,7 +22447,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 125084930,
-        "download_count": 27230,
+        "download_count": 27231,
         "created_at": "2021-08-27T13:10:26Z",
         "updated_at": "2021-08-27T13:10:34Z",
         "browser_download_url": "https://github.com/logseq/logseq/releases/download/0.3.6/logseq-darwin-x64-0.3.6.zip"
